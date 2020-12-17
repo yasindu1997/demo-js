@@ -4,6 +4,7 @@ var array = [
     { id: 3, start: "2016-12-07T10:00:00", subject: "test3" },
     { id: 4, start: "2016-12-07T07:00:00", subject: "test4" },
     { id: 5, start: "2016-12-07T14:00:00", subject: "test5" }
+    { id: 6, start: "2016-12-07T14:00:00", subject: "test5" }
 ];
 
 array.sort(function (a, b) {
